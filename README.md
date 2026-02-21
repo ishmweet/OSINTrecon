@@ -2,7 +2,7 @@
 
 # OSINTrecon
 
-OSINTRECON is a passive OSINT username footprint mapping tool written in Bash.  
+OSINTrecon is a passive OSINT username footprint mapping tool written in Bash.  
 It checks dozens of popular platforms in parallel to identify where a given username exists across the internet.
 
 The tool is designed to be:
