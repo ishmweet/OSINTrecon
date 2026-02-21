@@ -58,3 +58,4 @@ Most Linux distributions already include these.
 git clone https://github.com/ishmweet/osintrecon.git
 cd osintrecon
 chmod +x osintrecon.sh
+bash osintrecon.sh
