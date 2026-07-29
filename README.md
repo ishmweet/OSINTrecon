@@ -55,7 +55,7 @@ Most Linux distributions already include these.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ishmweet/osintrecon.git
+git clone https://github.com/corvainx/osintrecon.git
 cd osintrecon
 chmod +x osintrecon.sh
 bash osintrecon.sh
